@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-30T23:06:35 IST" name="Suite" finished-at="2023-09-30T23:07:10 IST" duration-ms="34070">
+    <groups>
+    </groups>
+    <test started-at="2023-09-30T23:06:35 IST" name="Homepage" finished-at="2023-09-30T23:06:55 IST" duration-ms="19367">
+      <class name="org.rocketfinapp.baseapk.Homepage">
+        <test-method is-config="true" signature="getTheTestName(org.testng.ITestContext)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:35 IST" name="getTheTestName" finished-at="2023-09-30T23:06:35 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@518ddd3b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheTestName -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:36 IST" name="verifyTheName" finished-at="2023-09-30T23:06:36 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Homepage.AllowPopupManagePhoneCalls() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method signature="AllowPopupManagePhoneCalls()[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:36 IST" name="AllowPopupManagePhoneCalls" finished-at="2023-09-30T23:06:43 IST" duration-ms="7387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllowPopupManagePhoneCalls -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:43 IST" name="checkStatus" finished-at="2023-09-30T23:06:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AllowPopupManagePhoneCalls status=SUCCESS method=Homepage.AllowPopupManagePhoneCalls()[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:43 IST" name="verifyTheName" finished-at="2023-09-30T23:06:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Homepage.mainpage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method signature="mainpage()[pri:1, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:43 IST" name="mainpage" finished-at="2023-09-30T23:06:47 IST" duration-ms="4456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainpage -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:47 IST" name="checkStatus" finished-at="2023-09-30T23:06:47 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=mainpage status=SUCCESS method=Homepage.mainpage()[pri:1, instance:org.rocketfinapp.baseapk.Homepage@795509d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:47 IST" name="verifyTheName" finished-at="2023-09-30T23:06:47 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Homepage.Borrowerslide() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method signature="Borrowerslide()[pri:2, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:47 IST" name="Borrowerslide" finished-at="2023-09-30T23:06:50 IST" duration-ms="2142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Borrowerslide -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:50 IST" name="checkStatus" finished-at="2023-09-30T23:06:50 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Borrowerslide status=SUCCESS method=Homepage.Borrowerslide()[pri:2, instance:org.rocketfinapp.baseapk.Homepage@795509d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:50 IST" name="verifyTheName" finished-at="2023-09-30T23:06:50 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Homepage.Investorslide() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method signature="Investorslide()[pri:3, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:50 IST" name="Investorslide" finished-at="2023-09-30T23:06:52 IST" duration-ms="1999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Investorslide -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:52 IST" name="checkStatus" finished-at="2023-09-30T23:06:52 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Investorslide status=SUCCESS method=Homepage.Investorslide()[pri:3, instance:org.rocketfinapp.baseapk.Homepage@795509d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method signature="Chooseyourpath_slide()[pri:4, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:52 IST" name="Chooseyourpath_slide" finished-at="2023-09-30T23:06:55 IST" duration-ms="3311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chooseyourpath_slide -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:52 IST" name="verifyTheName" finished-at="2023-09-30T23:06:52 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Homepage.Chooseyourpath_slide() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Homepage@795509d9]" started-at="2023-09-30T23:06:55 IST" name="checkStatus" finished-at="2023-09-30T23:06:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Chooseyourpath_slide status=SUCCESS method=Homepage.Chooseyourpath_slide()[pri:4, instance:org.rocketfinapp.baseapk.Homepage@795509d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+      </class> <!-- org.rocketfinapp.baseapk.Homepage -->
+    </test> <!-- Homepage -->
+    <test started-at="2023-09-30T23:06:55 IST" name="permissionspage" finished-at="2023-09-30T23:07:10 IST" duration-ms="14661">
+      <class name="org.rocketfinapp.baseapk.Permissionspage">
+        <test-method is-config="true" signature="configureappium()[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:08 IST" name="configureappium" finished-at="2023-09-30T23:06:35 IST" duration-ms="27134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureappium -->
+        <test-method is-config="true" signature="getTheTestName(org.testng.ITestContext)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:55 IST" name="getTheTestName" finished-at="2023-09-30T23:06:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@939ff41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheTestName -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:55 IST" name="verifyTheName" finished-at="2023-09-30T23:06:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Permissionspage.smsallowpopup() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method signature="smsallowpopup()[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:55 IST" name="smsallowpopup" finished-at="2023-09-30T23:06:57 IST" duration-ms="1701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smsallowpopup -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:57 IST" name="checkStatus" finished-at="2023-09-30T23:06:57 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smsallowpopup status=SUCCESS method=Permissionspage.smsallowpopup()[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:57 IST" name="verifyTheName" finished-at="2023-09-30T23:06:57 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Permissionspage.Locationallowpopup()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method signature="Locationallowpopup()[pri:1, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:57 IST" name="Locationallowpopup" finished-at="2023-09-30T23:06:59 IST" duration-ms="2031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Locationallowpopup -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:59 IST" name="checkStatus" finished-at="2023-09-30T23:06:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Locationallowpopup status=SUCCESS method=Permissionspage.Locationallowpopup()[pri:1, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method signature="contactsallowpopup()[pri:2, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:59 IST" name="contactsallowpopup" finished-at="2023-09-30T23:07:03 IST" duration-ms="4837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactsallowpopup -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:06:59 IST" name="verifyTheName" finished-at="2023-09-30T23:06:59 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Permissionspage.contactsallowpopup() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:07:03 IST" name="checkStatus" finished-at="2023-09-30T23:07:03 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=contactsallowpopup status=SUCCESS method=Permissionspage.contactsallowpopup()[pri:2, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:07:03 IST" name="verifyTheName" finished-at="2023-09-30T23:07:03 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Permissionspage.permissionspageTitle() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method signature="permissionspageTitle()[pri:3, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:07:03 IST" name="permissionspageTitle" finished-at="2023-09-30T23:07:08 IST" duration-ms="4664" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Permissions] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Permissions] but found []
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at org.rocketfinapp.baseapk.Permissionspage.permissionspageTitle(Permissionspage.java:41)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- permissionspageTitle -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:07:08 IST" name="checkStatus" finished-at="2023-09-30T23:07:08 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=permissionspageTitle status=FAILURE method=Permissionspage.permissionspageTitle()[pri:3, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method is-config="true" signature="verifyTheName(java.lang.reflect.Method)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:07:08 IST" name="verifyTheName" finished-at="2023-09-30T23:07:08 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.rocketfinapp.baseapk.Permissionspage.NextButton() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheName -->
+        <test-method signature="NextButton()[pri:4, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:07:08 IST" name="NextButton" finished-at="2023-09-30T23:07:10 IST" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NextButton -->
+        <test-method is-config="true" signature="checkStatus(org.testng.ITestResult)[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:07:10 IST" name="checkStatus" finished-at="2023-09-30T23:07:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=NextButton status=SUCCESS method=Permissionspage.NextButton()[pri:4, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatus -->
+        <test-method is-config="true" signature="tear_Down()[pri:0, instance:org.rocketfinapp.baseapk.Permissionspage@2b40ff9c]" started-at="2023-09-30T23:07:10 IST" name="tear_Down" finished-at="2023-09-30T23:07:12 IST" duration-ms="2480" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Connection refused: no further information
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [ed9c3332-b264-4801-bbde-c0dcbbc45c01, quit {}]
+Capabilities {appium:PlatformVersion: 12.0, appium:app: F:\Mobile_testingAutomation..., appium:appPackage: in.rocketfin.starter, appium:automationName: UIAutomator2, appium:databaseEnabled: false, appium:desired: {PlatformVersion: 12.0, app: F:\Mobile_testingAutomation..., automationName: UIAutomator2, deviceName: samsung SM-M317F, platformName: android}, appium:deviceApiLevel: 31, appium:deviceManufacturer: samsung, appium:deviceModel: SM-M317F, appium:deviceName: adb-RZ8N922GAJK-Nm9bWD._adb..., appium:deviceScreenDensity: 450, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: adb-RZ8N922GAJK-Nm9bWD._adb..., appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.8125, appium:platformVersion: 12, appium:statBarHeight: 87, appium:takesScreenshot: true, appium:viewportRect: {height: 2090, left: 0, top: 87, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: ed9c3332-b264-4801-bbde-c0dcbbc45c01]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Connection refused: no further information
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [ed9c3332-b264-4801-bbde-c0dcbbc45c01, quit {}]
+Capabilities {appium:PlatformVersion: 12.0, appium:app: F:\Mobile_testingAutomation..., appium:appPackage: in.rocketfin.starter, appium:automationName: UIAutomator2, appium:databaseEnabled: false, appium:desired: {PlatformVersion: 12.0, app: F:\Mobile_testingAutomation..., automationName: UIAutomator2, deviceName: samsung SM-M317F, platformName: android}, appium:deviceApiLevel: 31, appium:deviceManufacturer: samsung, appium:deviceModel: SM-M317F, appium:deviceName: adb-RZ8N922GAJK-Nm9bWD._adb..., appium:deviceScreenDensity: 450, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: adb-RZ8N922GAJK-Nm9bWD._adb..., appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.8125, appium:platformVersion: 12, appium:statBarHeight: 87, appium:takesScreenshot: true, appium:viewportRect: {height: 2090, left: 0, top: 87, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: ed9c3332-b264-4801-bbde-c0dcbbc45c01
+at io.appium.java_client.remote.AppiumCommandExecutor.lambda$execute$4(AppiumCommandExecutor.java:192)
+at java.base/java.util.Optional.orElseGet(Optional.java:364)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:191)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:596)
+at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:267)
+at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:443)
+at org.rocketfinapp.baseapk.Basetestrocketfin.tear_Down(Basetestrocketfin.java:101)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:410)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: java.net.ConnectException: Connection refused: no further information
+at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946)
+at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337)
+at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_Down -->
+      </class> <!-- org.rocketfinapp.baseapk.Permissionspage -->
+    </test> <!-- permissionspage -->
+  </suite> <!-- Suite -->
+</testng-results>

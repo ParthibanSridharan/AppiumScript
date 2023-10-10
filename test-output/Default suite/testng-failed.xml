@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.rocketfinapp.baseapk.smokescriptinvestor">
+        <methods>
+          <include name="tear_Down"/>
+          <include name="proofofincomepage"/>
+          <include name="Alldonepage"/>
+          <include name="Addresspage"/>
+          <include name="Dashboardpage"/>
+          <include name="termspage"/>
+          <include name="Occupationpage"/>
+          <include name="Depositaccountpage"/>
+          <include name="Labelloanpage"/>
+          <include name="eNACHagreementpage"/>
+          <include name="configureappium"/>
+          <include name="Aadharotppage"/>
+          <include name="selectplan"/>
+          <include name="permissionspage"/>
+          <include name="Paymentpage"/>
+          <include name="checkStatus"/>
+          <include name="getTheTestName"/>
+          <include name="setpinpage"/>
+          <include name="signup"/>
+          <include name="DebitCarddetails"/>
+          <include name="AddEmailpage"/>
+          <include name="bankotpverify"/>
+          <include name="EmailVerificationpage"/>
+          <include name="Aadharpage"/>
+          <include name="PANpage"/>
+          <include name="selfiepage"/>
+          <include name="Eligibilitypage"/>
+          <include name="landingpageslides"/>
+          <include name="selectaccountspage"/>
+          <include name="mobilenumberpage"/>
+          <include name="verifyTheName"/>
+          <include name="confirmpinpage"/>
+          <include name="mobileotppage"/>
+        </methods>
+      </class> <!-- org.rocketfinapp.baseapk.smokescriptinvestor -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

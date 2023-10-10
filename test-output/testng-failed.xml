@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="permissionspage(failed)">
+    <classes>
+      <class name="org.rocketfinapp.baseapk.Permissionspage">
+        <methods>
+          <include name="verifyTheName"/>
+          <include name="tear_Down"/>
+          <include name="configureappium"/>
+          <include name="getTheTestName"/>
+          <include name="checkStatus"/>
+          <include name="permissionspageTitle"/>
+        </methods>
+      </class> <!-- org.rocketfinapp.baseapk.Permissionspage -->
+    </classes>
+  </test> <!-- permissionspage(failed) -->
+</suite> <!-- Failed suite [Suite] -->

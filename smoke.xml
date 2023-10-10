@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+<test name="Homepage">
+	<classes>
+
+		<class name="org.rocketfinapp.baseapk.Homepage"></class>
+
+	</classes>
+</test>
+<test name="permissionspage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.Permissionspage"></class>
+
+	</classes>
+</test>
+</suite>

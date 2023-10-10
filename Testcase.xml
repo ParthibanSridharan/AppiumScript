@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+<test name="Homepage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.Homepage"></class>
+
+	</classes>
+</test>
+<test name="permissionspage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.Permissionspage"></class>
+
+	</classes>
+</test>
+<test name="TermsandConditionsPage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.TermsandConditionsPage"></class>
+
+	</classes>
+</test>
+<test name="Mobilenumberpage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.Mobilenumberpage"></class>
+
+	</classes>
+</test>
+<test name="Mobilenumberotp">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.Mobilenumberotp"></class>
+
+	</classes>
+</test>
+<test name="SetPinAndConfirmPin">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.SetPinAndConfirmPin"></class>
+
+	</classes>
+</test>
+<test name="EligibilityPage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.EligibilityPage"></class>
+
+	</classes>
+</test>
+<test name="AadharVerificationPage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.AadharVerificationPage"></class>
+
+	</classes>
+</test>
+<test name="VerifyAadhar_OTPpage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.VerifyAadhar_OTPpage"></class>
+
+	</classes>
+</test>
+<test name="PanVerification">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.PanVerification"></class>
+
+	</classes>
+</test>
+<test name="SelectAccountsPage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.SelectAccountsPage"></class>
+
+	</classes>
+</test>
+<test name="BankVerifyOTP">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.VerifyBankOTP"></class>
+
+	</classes>
+</test>
+<test name="ChooseEmailPage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.ChooseEmailPage"></class>
+
+	</classes>
+</test>
+<test name="EmailIDVerificationPage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.EmailIDVerificationPage"></class>
+
+	</classes>
+</test>
+<test name="AddressPage">
+	<classes>
+
+
+		<class name="org.rocketfinapp.baseapk.AddressPage"></class>
+
+	</classes>
+</test>
+</suite>
